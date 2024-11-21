@@ -1,0 +1,3 @@
+[submodule "apps/git-submodule-teste-turbo-3-docs"]
+	path = apps/git-submodule-teste-turbo-3-docs
+	url = https://github.com/MatheusSaS/git-submodule-teste-turbo-3-docs
